@@ -1,0 +1,6 @@
+numpy>=1.26
+plotly>=6.3
+pandas>=2.3
+torch>=2.6
+xgboost>=3.0
+yfinance==0.2.66
